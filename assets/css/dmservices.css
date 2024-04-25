@@ -1,5 +1,5 @@
-section{
-    margin: 5rem 0rem;
+.service-sec{
+    padding:5rem;
 }
 .services p{
     font-size: 18px;
@@ -19,7 +19,7 @@ section{
 .our-services{
     display:grid;
     grid-template-columns:1fr 3fr 3fr 3fr 1fr ;
-    gap: 35px;
+    gap: 15px;
 }
 .ideaicon{
     font-size: 40px;
@@ -61,8 +61,8 @@ color: #040021;
     margin: 1rem;
 }
 .ourservice:hover{
-    background-color: #6639ff;
-    color:white;
+    background-color: #e82b4b;
+    color:black;
 }
 
 
